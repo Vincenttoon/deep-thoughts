@@ -16,9 +16,7 @@ By: [Vincent Toon](https://github.com/Vincenttoon)
 
 * [Usage](#usage)  
 
-* [Contributors](#contributors)
-
-* [Tests](#tests)
+* [Issues}(#issues)
 
 * [Questions?](#questions)
 
